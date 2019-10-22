@@ -1,0 +1,94 @@
+.img-responsive {
+  float: right;
+}
+
+.img {
+  float: left;
+}
+
+.img {
+  float: left;
+}
+
+.img {
+  float: right;
+}
+
+.img {
+  float: right;
+}
+
+.img {
+  float: left;
+}
+
+.img {
+  max-width: 80%;
+  height: 50%;
+  /*shrink: 10%;*/
+}
+
+.img {
+  width: 300px;
+  height: 300px;
+}
+
+.img {
+  object-fit: cover;
+  float: right;
+  /*flex-direction: row;*/
+}
+
+.post-preview {
+  width: 100%;
+  height: auto;
+  padding-top: 5px;
+  object-fit: cover;
+  padding-bottom: 5px;
+}
+
+.img {
+  object-fit: scale-down;
+  float: left;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+}
+
+.img {
+  vertical-align: top;
+  align-content: space-evenly;
+  object-fit: scale-down;
+}
+
+.post-preview {
+  align-content: space-between;
+  /*vertical-align: text-top;*/
+}
+
+.img {
+  vertical-align: middle;
+  align-content: left;
+}
+
+.container {
+}
+
+div {
+  position: relative;
+  height: auto;
+  width: auto;
+  div img{ float: left;
+  clear: both;
+  }div img: nth-of-type(2n){  float:right;
+}
+
+.img {
+  float: left;
+  clear: both;
+}
+
+.img:nth of type(2n) {
+}
+
