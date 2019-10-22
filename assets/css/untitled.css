@@ -79,16 +79,57 @@ div {
   position: relative;
   height: auto;
   width: auto;
-  div img{ float: left;
-  clear: both;
-  }div img: nth-of-type(2n){  float:right;
 }
 
 .img {
-  float: left;
-  clear: both;
+  padding-bottom: 10%;
+  padding-top: 1%;
 }
 
-.img:nth of type(2n) {
+.sidenav {
+  height: 100%;
+  width: 160px;
+  position: sticky;
+  z-index: 1;
+  top: 14%;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+
+.sidenav {
+  width: 130px;
+  position: sticky;
+  z-index: 1;
+  top: 20px;
+  left: 10px;
+  background: #eee;
+  overflow-x: hidden;
+  padding: 8px 0;
+}
+
+.sidenav a {
+  backface-visibility: visible;
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  color: black;
+  display: block;
+}
+
+.sidenav a:hover {
+  color: green;
+}
+
+.sidenav {
+  padding-top: 8%;
+  background-color: rgba(255,255,255,0.5);
+}
+
+.sidenav {
+  font-size: 20px;
+  font-weight: 600;
+  font-family: 'Bitter';
 }
 
